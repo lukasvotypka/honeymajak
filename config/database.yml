@@ -44,5 +44,5 @@ production:
   database: honeymajak
   pool: 5
   username: honeymajak
-  password: 
+  password: QI49wqM4F4
   socket: /tmp/mysql.sock
