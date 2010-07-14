@@ -1,5 +1,5 @@
 set :application, "honeymajak"
-set :repository, "git://github.com/karmi/workshop_tutorial_application.git"
+set :repository, "git://github.com/luigi-sk/honeymajak.git"
 set :scm, "git"
 
 role :web, "server5.railshosting.cz"
