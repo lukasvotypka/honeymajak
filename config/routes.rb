@@ -41,20 +41,20 @@ ActionController::Routing::Routes.draw do |map|
   # You can have the root of your site routed with map.root -- just remember to delete public/index.html.
   
   
-  map.root :controller => "under_construction"
+#  map.root :controller => "under_construction"
   
   
   
   
-#  map.root :controller => "pages"
+  map.root :controller => "pages"
   
-#  map.pages ':action', :controller=>"pages", :collection => { 
-#      :prices => :get,
-#      :faq => :get,
-#      :how_it_works => :get,
-#      :about_us => :get,
-#      :operator_app => :get,
-#      :customer_app => :get}
+  map.pages ':action', :controller=>"pages", :collection => { 
+      :acacia_honey => :get,
+      :about_us => :get,
+      :contact => :get,
+      :index => :get,
+      :honey_wine => :get,
+      :honey => :get}
   
 
   # See how all your routes lay out with "rake routes"
