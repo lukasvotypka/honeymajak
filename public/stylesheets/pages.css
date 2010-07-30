@@ -4,6 +4,18 @@ body {
 	height:100%;
 }
 
+*{
+	color: #FFF;
+}
+
+a:hover{
+	background: transparent;
+}
+
+a{
+	color: #FFF;
+}
+
 #main_container{
 	width: 1038px;
 	margin: 0 auto;
@@ -32,6 +44,14 @@ ul.horizontal li{
 
 .clear{
 	clear:both;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
 }
 
 .navi{
@@ -178,22 +198,31 @@ ul.horizontal li{
 
 #content .wrapper{
 	width:100%;
-	position: absolute;
 	
 	top:94px;
 	left: 0px;
 }
 
 #content .wrapper .text_wrapper{
-	padding: 0 2em;
-	
+	padding: 0 70px;
 	margin-top: -60px;
-	
-	
 }
 
 #content h1{
 	margin: 0px;
+}
+
+.btn{
+	background: url(/images/web/button_bg.png) no-repeat top left;
+	width: 89px;
+	height: 26px;
+}
+
+.btn a{
+	display: block;
+	text-decoration: none;
+	margin: 10px 0 0 10px;
+	line-height: 26px;
 }
 
 /* index */
@@ -206,4 +235,17 @@ ul.horizontal li{
 	text-transform: uppercase;
 	color: #FFF;
 	
+}
+
+h2{
+	
+}
+
+#content.index .company{
+	width: 30%;
+}
+
+#content.index .others{
+	width: 60%;
+	margin-left:80px;
 }

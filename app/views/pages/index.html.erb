@@ -1,2 +1,35 @@
-<h1>Pages#index</h1>
-<p>Find me in app/views/pages/index.html.erb</p>
+<div class="left company"><h2>
+	<%= t("Company") %></h2>
+	<img src="/images/web/index/index_company.png" alt="company text">
+	<p><%= t("index_company_text") %></p>
+	<p><%= t("index_company_text2") %></p>
+	<div class="btn"><%= link_to t("read_more") %></div>
+</div>
+
+<div class="left others">
+	<h2><%= t("Honey") %></h2>
+	<div>
+		<div class="lst"></div>
+		<p><%= t(:index_honey_text1)%></p>
+	</div>
+	<div>
+		<div class="lst"></div>
+		<p><%= t(:index_honey_text2)%></p>
+	</div>
+	<img src="/images/web/index/index_honey.png" id="index_honey" alt="honey" />
+	<div class="btn"><%= link_to t("read_more") %></div>
+	
+	<h2><%= t("Honey Wine") %></h2>
+	<div>
+		<div class="lst"></div>
+		<p><%= t(:index_honey_wine_text1)%></p>
+	</div>
+	<div>
+		<div class="lst"></div>
+		<p><%= t(:index_honey_wine_text2)%></p>
+	</div>
+	<img src="/images/web/index/index_wine.png" id="index_wine" alt="bootle of wine" />
+	<div class="btn"><%= link_to t("read_more") %></div>
+</div>
+
+<div class="clear"></div>
