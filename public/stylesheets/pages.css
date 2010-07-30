@@ -6,6 +6,7 @@ body {
 
 *{
 	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 a:hover{
@@ -68,7 +69,7 @@ ul.horizontal li{
 #navigation.index{
 	width: 100%;
 	height: 415px;
-	background: url(/images/web/home_bg.png) no-repeat top left;
+	background: url(/images/web/home_bg.jpg) no-repeat top left;
 }
 
 .navi li{
@@ -154,6 +155,7 @@ ul.horizontal li{
 	height:36px;
 	display:block;
 	padding-top:30px;
+	text-transform: capitalize;
 }
 
 .navi li a:hover{
@@ -223,7 +225,70 @@ ul.horizontal li{
 	text-decoration: none;
 	margin: 10px 0 0 10px;
 	line-height: 26px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
 }
+
+.list_item{
+	padding-left: 20px;
+	background: url(/images/web/list_image.png) no-repeat left 3px;
+}
+
+#content.honey .links{
+	position:absolute;
+	top: 400px;
+}
+
+#content .links .list_item.ok{
+	background: url(/images/web/list_item_ok.png) no-repeat left 10px;
+}
+
+#content .links a{
+	line-height: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+body, p, ol, ul, td{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+	font-size: 15px;
+}
+
+p:first-letter{
+	font-size:18px;
+	font-weight:bold;
+}
+
+p:first-line { line-height: 100%; }
+
+em{
+	font-style: normal;
+}
+
+em.up{
+	text-transform: uppercase;
+}
+
+h2, h3{
+	text-transform: capitalize;
+	font-family: "Times New Roman", Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	font-weight: normal;
+}
+
+h3{
+	font-size: 24px;
+}
+
+a img{
+	border: none;
+}
+
 
 /* index */
 
@@ -234,10 +299,7 @@ ul.horizontal li{
 	width: 350px;
 	text-transform: uppercase;
 	color: #FFF;
-	
-}
-
-h2{
+	display: none;
 	
 }
 
@@ -246,6 +308,146 @@ h2{
 }
 
 #content.index .others{
-	width: 60%;
+	width: 380px;
 	margin-left:80px;
+}
+
+#index_honey, #index_wine{
+	position: absolute;
+}
+
+#index_honey{
+	top: 120px;
+	right: 80px;
+}
+
+#index_wine{
+	top: 300px;
+	right: 110px;
+}
+
+/* acacia honey */
+
+#content.acacia_honey .left{
+	width:270px;
+}
+
+#content.acacia_honey .left p{
+	text-align:justify;
+}
+
+#acacia_honey_img2{
+	position:absolute;
+	top: 400px;
+}
+
+/* honey */
+
+#content.honey .left{
+	width:270px;
+}
+
+.margin30px{
+	margin-left: 30px;
+}
+
+#honey_img2{
+	margin-top: 30px;
+}
+
+.honey_img2_desc p{
+	font-style: italic;
+	font-size: 15px;
+}
+
+
+
+/* honey wine */
+
+.honey_wine{
+	
+}
+
+.honey_wine .wide{
+	width: 450px;
+}
+
+#honey_wine_img1{
+	position:absolute;
+	left: 550px;
+	top: 70px;
+}
+
+.honey_wine .exclusive{
+	margin-left: 140px;
+	width: 280px;
+}
+
+.honey_wine .links{
+	padding-top: 50px;
+}
+
+#honey_wine_img2{
+	position:absolute;
+	bottom: 40px;
+	right:125px;
+}
+
+/* about us */
+
+.about_us .left{
+	width: 270px;
+}
+
+.about_us .middle{
+	
+}
+
+.list_item.home{
+	background: url(/images/web/about_us/about_us_home.png) no-repeat center left;
+}
+
+.list_item.mail{
+	background: url(/images/web/about_us/about_us_mail.png) no-repeat center left;
+}
+
+.list_item.phone{
+	background: url(/images/web/about_us/about_us_phone.png) no-repeat center left;
+}
+
+.list_item.browser{
+	background: url(/images/web/contact/contact_browser.png) no-repeat center left;
+}
+
+.address{
+	margin-top: 30px;
+	font-size: 12px;
+}
+
+.address .list_item{
+	line-height: 35px;
+	background-position: left center;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.address .list_item em{
+	text-decoration:underline;
+	font-style: normal;
+	font-size: 12px;
+}
+
+.about_us .org_nmb{
+	font-size:15px;
+	font-weight:bold;
+}
+
+/* contact */
+
+.contact .address .list_item.home{
+	background-position: left 15px;
+}
+
+.contact .address .list_item{
+	font-size: 17px;
 }
