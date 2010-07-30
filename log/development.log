@@ -427,3 +427,2571 @@ Processing PagesController#index (for 127.0.0.1 at 2010-07-27 18:34:41) [GET]
 Rendering template within layouts/pages
 Rendering pages/index
 Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 16:28:10) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 91ms (View: 89, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 16:28:38) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 16:33:47) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 42ms (View: 40, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 16:34:32) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 16:34:39) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:34:43) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 41ms (View: 39, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:34:45) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:35:42) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 61ms (View: 60, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:46:32) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:49:20) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:49:51) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 62ms (View: 60, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:49:56) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:50:19) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:50:52) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:51:04) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:51:28) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:53:51) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 59ms (View: 58, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:54:58) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:55:39) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:55:43) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:56:55) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-28 16:57:07) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 28ms (View: 27, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:57:08) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 62ms (View: 60, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 16:57:09) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 16:58:47) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+
+ActionView::TemplateError (undefined method `action' for #<ActionController::Request:0x102063c10>) on line #20 of app/views/layouts/pages.html.erb:
+17: 	</h1>
+18: 	
+19: 	<ul class="horizontal navi">
+20: 		<li class="<%= 's' if request.action=='index' %>">
+21: 			<div class="wrapper">
+22: 				<div class="left g"></div>
+23: 				<div class="content g">
+
+    app/views/layouts/pages.html.erb:20
+
+Rendered rescues/_trace (111.2ms)
+Rendered rescues/_request_and_response (1.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 16:59:21) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 16:59:23) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 16:59:29) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 17:00:32) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 17:01:33) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 12ms (View: 11, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 17:11:05) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 108ms (View: 106, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 17:11:46) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 17:12:06) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 17:12:14) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 17:12:22) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 17:12:29) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 17:12:33) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-28 17:13:05) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-28 17:13:13) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-28 17:13:14) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-28 17:13:15) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 27ms (View: 26, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-28 17:25:20) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 54ms (View: 52, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-28 17:25:21) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-28 17:26:04) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 87ms (View: 33, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.8ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-28 17:28:12) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 51ms (View: 49, DB: 1) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-28 17:29:57) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.8ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-28 17:30:34) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 31ms (View: 29, DB: 1) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-28 17:31:10) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-28 17:31:30) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-28 17:32:56) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 64ms (View: 7, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-28 20:11:48) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 101ms (View: 99, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.6ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-29 23:42:08) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 732ms (View: 704, DB: 1) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-29 23:42:12) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 53ms (View: 35, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-29 23:42:13) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 25ms (View: 23, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-29 23:42:14) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 179ms (View: 177, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (28.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 11:32:11) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 1027ms (View: 1007, DB: 29) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 11:33:55) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 42ms (View: 40, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 11:34:06) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 11:37:20) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 11:37:24) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 11:37:46) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 53ms (View: 52, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 11:54:53) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 75ms (View: 74, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 11:56:24) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 62ms (View: 60, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 11:57:41) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 41ms (View: 39, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:02:55) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 16ms (View: 15, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-30 12:02:55) [GET]
+
+ActionController::RoutingError (No route matches "/images/web/content_bg.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-07-30 12:03:01) [GET]
+
+ActionController::RoutingError (No route matches "/images/web/content_bg.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:03:11) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:03:45) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 31ms (View: 30, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:03:57) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:04:27) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 58ms (View: 56, DB: 1) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:10:12) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:10:26) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:10:30) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:13:13) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 43ms (View: 41, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:14:10) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 38ms (View: 37, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:15:05) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 43ms (View: 41, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:15:16) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 34ms (View: 33, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:16:03) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:16:08) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 62ms (View: 60, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:17:27) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 42ms (View: 41, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:18:07) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 43ms (View: 42, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:19:13) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 42ms (View: 40, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:19:35) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:20:27) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 64ms (View: 63, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:23:27) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 42ms (View: 40, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:24:12) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 58ms (View: 56, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:36:43) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 67ms (View: 64, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:48:38) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 65ms (View: 63, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:49:32) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:49:37) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 12:50:28) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 12:50:45) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (2.9ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 12:51:46) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+
+ActionView::TemplateError (undefined method `name' for #<PagesController:0x10215c3d8>) on line #19 of app/views/layouts/pages.html.erb:
+16: 		<em>Honey majak</em>
+17: 	</h1>
+18: 	
+19: 	<div id="navigation" class="<%= controller.name + controller.action_name %>">
+20: 		<ul class="horizontal navi">
+21: 			<li class="corner_left <%= 's' if controller.action_name=='index' %>">
+22: 				<div class="wrapper">
+
+    app/views/layouts/pages.html.erb:19
+
+Rendered rescues/_trace (53.5ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (2.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 12:53:12) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+
+ActionView::TemplateError (undefined method `+' for #<PagesController:0x102524ba0>) on line #19 of app/views/layouts/pages.html.erb:
+16: 		<em>Honey majak</em>
+17: 	</h1>
+18: 	
+19: 	<div id="navigation" class="<%= controller + controller.action_name %>">
+20: 		<ul class="horizontal navi">
+21: 			<li class="corner_left <%= 's' if controller.action_name=='index' %>">
+22: 				<div class="wrapper">
+
+    app/views/layouts/pages.html.erb:19
+
+Rendered rescues/_trace (54.7ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 12:53:26) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+
+ActionView::TemplateError (undefined method `str' for #<PagesController:0x1011633c8>) on line #19 of app/views/layouts/pages.html.erb:
+16: 		<em>Honey majak</em>
+17: 	</h1>
+18: 	
+19: 	<div id="navigation" class="<%= controller.str + controller.action_name %>">
+20: 		<ul class="horizontal navi">
+21: 			<li class="corner_left <%= 's' if controller.action_name=='index' %>">
+22: 				<div class="wrapper">
+
+    app/views/layouts/pages.html.erb:19
+
+Rendered rescues/_trace (53.8ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 12:53:36) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 12:54:07) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 12:54:20) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 65ms (View: 63, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 12:56:18) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 12:56:21) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 12:56:23) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 12:58:43) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 72ms (View: 70, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 12:59:04) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 12:59:42) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 13:00:25) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 13:00:27) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 52ms (View: 50, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:00:28) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 13:00:29) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:12:29) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 51ms (View: 49, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:12:31) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 60ms (View: 59, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:20:26) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:26:04) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 56ms (View: 55, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:26:32) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:41:37) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 60ms (View: 59, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:41:51) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:42:38) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:43:22) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:44:22) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:44:38) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:45:44) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:46:03) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:46:25) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:46:32) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 13:46:33) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:46:36) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 13:46:38) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:46:41) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 13:46:44) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 58ms (View: 57, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 13:46:45) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 13:46:46) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 13:46:48) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:46:50) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 13:46:52) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:46:53) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:46:54) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:46:55) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:47:05) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:47:08) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:47:09) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 13:47:43) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 13:47:44) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 13:47:45) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:47:46) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:47:48) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 13:47:49) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:47:50) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:47:51) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 13:47:51) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 60ms (View: 58, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:47:53) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 13:47:54) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 13:47:55) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:47:55) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:47:57) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 110ms (View: 108, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:47:58) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 13:48:00) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:48:01) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:52:40) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:52:41) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:52:46) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:52:47) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:52:48) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:52:49) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:52:51) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:53:37) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:54:04) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 13:54:06) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 13:54:35) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 69ms (View: 67, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 13:54:43) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:54:53) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:54:54) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 13:54:57) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 13:55:43) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 11ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 13:55:45) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:55:47) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 13:55:48) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 13:55:50) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 13:55:51) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 13:55:53) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 13:56:39) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:05:06) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 61ms (View: 59, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:05:25) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:05:50) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:07:01) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 14:07:02) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 14:07:43) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:07:45) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 60ms (View: 58, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 14:07:46) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:07:47) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:07:48) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 14:07:50) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:07:51) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:07:53) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:07:54) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:07:56) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:08:32) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:08:38) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 14:08:39) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:08:40) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:08:41) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 58ms (View: 57, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:12:32) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 16ms (View: 10, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:12:40) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:12:41) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:12:57) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:13:06) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:13:08) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 59ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:13:09) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:13:10) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 14:13:12) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:13:46) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:13:48) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:13:49) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:13:52) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:13:53) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 14:13:55) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:13:55) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:14:02) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 14:14:04) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:14:04) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 61ms (View: 59, DB: 1) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:14:06) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:14:07) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:14:24) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 277ms (View: 275, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:14:25) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 345ms (View: 343, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:15:17) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 47ms (View: 44, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 14:15:20) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:15:23) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:15:25) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:15:26) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:15:27) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:15:28) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:15:35) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:15:39) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:17:23) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:17:43) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 20ms (View: 9, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:17:45) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:17:46) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 14:17:47) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:17:48) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 14:18:28) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:18:29) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:18:30) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:18:32) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:18:33) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:18:34) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:20:53) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 61ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:21:53) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:21:55) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:21:56) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:23:06) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:23:15) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 14:23:16) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 61ms (View: 60, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:23:17) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:23:18) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:23:19) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:23:21) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:23:22) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:23:28) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:23:31) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:23:32) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:23:42) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:24:21) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:24:47) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:24:49) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:24:50) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 14:24:51) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#contact (for 127.0.0.1 at 2010-07-30 14:24:52) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/contact
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/contact]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:24:54) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 13ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.8ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:25:02) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 8ms (View: 4, DB: 1) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:26:18) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:26:20) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:26:20) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 65ms (View: 64, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:26:22) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#about_us (for 127.0.0.1 at 2010-07-30 14:26:24) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/about_us
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/about_us]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey_wine (for 127.0.0.1 at 2010-07-30 14:26:26) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey_wine
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey_wine]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#honey (for 127.0.0.1 at 2010-07-30 14:26:27) [GET]
+  Parameters: {"collection"=>{"acacia_honey"=>:get, "contact"=>:get, "honey_wine"=>:get, "about_us"=>:get, "index"=>:get, "honey"=>:get}}
+Rendering template within layouts/pages
+Rendering pages/honey
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/honey]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:26:31) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:27:25) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:28:01) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:29:22) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:30:17) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:30:56) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:31:32) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:32:51) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:33:23) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:34:38) [GET]
+
+ArgumentError (syntax error on line 10, col 132: `'):
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/yaml.rb:133:in `load'
+  /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/yaml.rb:133:in `load'
+  app/controllers/pages_controller.rb:23:in `index'
+
+Rendered rescues/_trace (108.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing PagesController#index (for 127.0.0.1 at 2010-07-30 14:34:51) [GET]
+Rendering template within layouts/pages
+Rendering pages/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/]

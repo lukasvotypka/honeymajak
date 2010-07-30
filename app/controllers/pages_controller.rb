@@ -1,4 +1,5 @@
 class PagesController < ApplicationController
+  
   def acacia_honey
 
     respond_to do |format|
@@ -19,6 +20,7 @@ class PagesController < ApplicationController
   end
 
   def index
+    @slogan = t("the sweetness of a family business approach")
   end
 
 end

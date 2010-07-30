@@ -16,33 +16,69 @@
 		<em>Honey majak</em>
 	</h1>
 	
-	<ul class="horizontal navi">
-		<li>
-			<div class="left"></div>
-			<%= link_to t(:home), pages_url(:action=>"index") %>
-		</li>
-		<li><%= link_to t(:honey), pages_url(:honey) %></li>
-		<li><%= link_to t(:honey_wine), pages_url(:honey_wine) %></li>
-		<li><%= link_to t(:about_us), pages_url(:about_us) %></li>
-		<li>
-			<%= link_to t(:contact), pages_url(:contact) %>
-			<div class="right"></div>
-		</li>
-	</ul>
+	<div id="navigation" class="<%= controller.action_name %>">
+		<ul class="horizontal navi">
+			<li class="corner_left index <%= 's' if controller.action_name=='index' %>">
+				<div class="wrapper">
+					<div class="left g"></div>
+					<div class="content g">
+						<%= link_to t(:home), pages_url(:action=>"index") %>
+					</div>
+					<div class="right g"></div>
+				</div>
+			</li>
+			<li class="honey <%= 's' if controller.action_name=='honey' %>">
+				<div class="wrapper">
+					<div class="left g"></div>
+					<div class="content g">
+						<%= link_to t(:honey), pages_url(:honey) %>
+					</div>
+					<div class="right g"></div>
+				</div>
+			</li>	
+			<li class="honey_wine <%= 's' if controller.action_name=='honey_wine' %>">
+				<div class="wrapper">
+					<div class="left g"></div>
+					<div class="content g">
+						<%= link_to t(:honey_wine), pages_url(:honey_wine) %>
+					</div>
+					<div class="right g"></div>
+				</div>
+			</li>
+			<li class="about_us <%= 's' if controller.action_name=='about_us' %>">
+				<div class="wrapper">
+					<div class="left g"></div>
+					<div class="content g">
+						<%= link_to t(:about_us), pages_url(:about_us) %>
+					</div>
+					<div class="right g"></div>
+				</div>
+			</li>
+			<li class="corner_right contact <%= 's' if controller.action_name=='contact' %>">
+				<div class="wrapper">
+					<div class="left g"></div>
+					<div class="content g">
+						<%= link_to t(:contact), pages_url(:contact) %>
+					</div>
+					<div class="right g"></div>
+				</div>
+			</li>
+		</ul>
+		<div class="slogan"><%= @slogan %></div>
+	</div>
 	<div class="clear"></div>
 	
-	<div id="top_image">
-		<div class="slogan"></div>
-	</div>
-	
-	<div id="content">
-		<div class="corn_tl"></div>
-		<div class="corn_tr"></div>
-		<div class="corn_bl"></div>
-		<div class="corn_br"></div>
-		<p style="color: green"><%= flash[:notice] %></p>
-	
-		<%= yield %>
+	<div id="content" class="<%= controller.action_name %>">
+		<div class="top"></div>
+		<div class="wrapper">
+			<div class="text_wrapper">
+				<div class="text_content">
+					<%= yield %>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="bottom"></div>
 	</div>
 </div>
 </body>
