@@ -290,6 +290,11 @@ a img{
 	border: none;
 }
 
+.footer{
+	font-weight: bold;
+	font-size:10px;
+	padding: 20px;
+}
 
 /* index */
 
