@@ -8,7 +8,7 @@
 </div>
 
 <div class="left margin30px">
-	<p class="nomargin"><b><%= t("Colour")%>:</b> <%= t("clear") %>.</p>
+	<p><b><%= t("Colour")%>:</b> <%= t("clear") %>.</p>
 	
 	<p><b><%= t("Flavour")%>:</b> <%= t("light, delicate, vanilla, floral") %>.</p>
 	
@@ -18,7 +18,7 @@
 </div>
 
 <div class="left margin30px">
-	<p class="nomargin"><%= t(:acacia_honey_text2) %></p>
+	<p><%= t(:acacia_honey_text2) %></p>
 	
 	<p><%= t(:acacia_honey_text3) %></p>
 </div>

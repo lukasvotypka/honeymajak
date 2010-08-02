@@ -1,7 +1,7 @@
 <div class="left">
 	<h2><%=t("HONEY  MAJAK")%></h2>
 	
-	<div>Organization no. 995 182 092</div>
+	<div class="org_nmb">Organization no. 995 182 092</div>
 	<img src="/images/web/about_us/about_us_img1.png" alt="contact" />
 </div>
 

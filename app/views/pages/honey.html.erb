@@ -1,14 +1,14 @@
-<h2><%= t("honey") %></h2>
 
 <div class="left nomargin">
+	<h2><%= t("honey") %></h2>
 	<img src="/images/web/honey/honey_img1.png" alt="honey" id="honey_img1" />
 </div>
 
 <div class="left margin30px">
-	<p><%= t(:honey_text1)%></p>
+	<p class="margin"><%= t(:honey_text1)%></p>
 	<p><%= t(:honey_text2)%></p>
 	<p><%= t(:honey_text3)%></p>
-	<div class="btn"><%= link_to t("read_more"), "/images/web/leaflet.jpg" %></div>
+	<div class="btn"><%= link_to t("read_more"), "/images/web/leaflet.jpg", {:rel=>"lightbox"} %></div>
 </div>
 
 <div class="left margin30px">
