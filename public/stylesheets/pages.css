@@ -5,7 +5,7 @@ body {
 }
 
 *{
-	color: #FFF;
+	color: #000;
 	font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -14,7 +14,7 @@ a:hover{
 }
 
 a{
-	color: #FFF;
+	color: #000;
 }
 
 #main_container{
@@ -26,6 +26,7 @@ a{
 	background: url(/images/web/main_logo.png) no-repeat top left;
 	width: 287px;
 	height: 92px;
+	margin:10px 0 0 30px;
 }
 
 #logo em{
@@ -241,6 +242,7 @@ ul.horizontal li{
 	font-weight:bold;
 	color: #FFF;
 	text-align:center;
+	text-transform: capitalize;
 }
 
 .list_item{
@@ -262,6 +264,11 @@ ul.horizontal li{
 	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
 	text-decoration: underline;
+	color: #000000;
+}
+
+#content p, #content h3, #content h2{
+	color: #000000;
 }
 
 body, p, ol, ul, td{
@@ -292,6 +299,10 @@ h2, h3{
 	font-family: "Times New Roman", Arial, Helvetica, sans-serif;
 	font-size: 36px;
 	font-weight: normal;
+}
+
+h2.nomargin, h3.nomargin{
+	margin-top:0;
 }
 
 h3{
@@ -341,7 +352,7 @@ a img{
 
 #index_wine{
 	top: 300px;
-	right: 110px;
+	right: 95px;
 }
 
 /* acacia honey */
@@ -388,7 +399,7 @@ a img{
 }
 
 .honey p.margin{
-	margin-top: 78px;
+	margin-top: 48px;
 }
 
 
@@ -431,7 +442,7 @@ a img{
 }
 
 .about_us .middle{
-	margin-top: 80px;
+	margin-top: 50px;
 }
 
 .list_item.home{
@@ -463,9 +474,9 @@ a img{
 }
 
 .address .list_item em{
-	text-decoration:underline;
+	text-decoration: none;
 	font-style: normal;
-	font-size: 12px;
+	font-size: 14px;
 }
 
 .about_us .org_nmb{

@@ -1,7 +1,7 @@
 <img src="/images/web/honey_wine/honey_wine_img1.png" alt="honey wine" id="honey_wine_img1" />
 
 <div class="left wide">
-	<h2 class="nomargin"><%= t(:honey_wine) %></h2>
+	<h2><%= t(:honey_wine) %></h2>
 	<p><%= t(:honey_wine_text1)%></p>
 	<p><%= t(:honey_wine_text2)%></p>
 	<p><%= t(:honey_wine_text3)%></p>
@@ -10,7 +10,7 @@
 </div>
 
 <div class="left exclusive">
-	<h2 class="nomargin"><%=t("Exclusive Supplier")%></h2>
+	<h2><%=t("Exclusive Supplier")%></h2>
 	<h3><%=t("Vcelco Meadery Ltd")%></h3>
 	<p><%= t(:honey_wine_text5)%></p>
 	<p><%= t(:honey_wine_text6)%></p>

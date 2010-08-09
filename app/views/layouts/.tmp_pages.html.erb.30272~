@@ -7,13 +7,17 @@
   <title>Honey majak: <%= @title %></title>
   <%= stylesheet_link_tag 'scaffold' %>
   <%= stylesheet_link_tag 'pages' %>
+  <%= stylesheet_link_tag 'lightbox' %>
+  <script type="text/javascript" src="/javascripts/prototype.js"></script>
+  <script type="text/javascript" src="/javascripts/scriptaculous.js?load=effects,builder"></script>
+  <script type="text/javascript" src="/javascripts/lightbox.js"></script>
 </head>
 <body>
 	
 <div id="main_container">
 	
 	<h1 id="logo">
-		<em>Honey majak</em>
+		<%= link_to "&nbsp;<em>Honey majak</em>", :root %>
 	</h1>
 	
 	<div id="navigation" class="<%= controller.action_name %>">

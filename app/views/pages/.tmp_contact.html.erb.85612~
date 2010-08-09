@@ -1,4 +1,4 @@
-<h2><%= t("honey  majak") %></h2>
+<h2>HONEY MAJAK</h2>
 
 <div class="address">
 	<div class="list_item home">Postbox 3104 Elisenberg,<br />0207 Oslo, Norway</div>
